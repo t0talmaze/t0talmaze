@@ -37,12 +37,6 @@ I am lucianolezcano07@gmail.com
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=t0talmaze&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=t0talmaze&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=t0talmaze&icon=9&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
